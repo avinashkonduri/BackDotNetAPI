@@ -24,7 +24,7 @@ namespace MvcTaskManager.Models
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             base.OnConfiguring(optionsBuilder);
-            optionsBuilder.UseSqlServer("data source=L006\\MSSQLSERVER2016; integrated security=yes;initial catalog=TaskManager");
+            optionsBuilder.UseSqlServer("data source=DESKTOP-G4IFRDG; integrated security=yes;initial catalog=TaskManager");
         }
         }
 }

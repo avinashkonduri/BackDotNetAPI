@@ -44,3 +44,26 @@ D:\GitRepositories\My Udemy\BackDotNetAPI\MvcTaskManager\obj\Debug\netcoreapp2.1
 D:\GitRepositories\My Udemy\BackDotNetAPI\MvcTaskManager\obj\Debug\netcoreapp2.1\MvcTaskManager.dll
 D:\GitRepositories\My Udemy\BackDotNetAPI\MvcTaskManager\obj\Debug\netcoreapp2.1\MvcTaskManager.pdb
 D:\GitRepositories\My Udemy\BackDotNetAPI\MvcTaskManager\obj\Debug\netcoreapp2.1\MvcTaskManager.csproj.CopyComplete
+F:\Udemy\BackDotNetAPI\MvcTaskManager\bin\Debug\netcoreapp2.1\MvcTaskManager.deps.json
+F:\Udemy\BackDotNetAPI\MvcTaskManager\bin\Debug\netcoreapp2.1\MvcTaskManager.runtimeconfig.json
+F:\Udemy\BackDotNetAPI\MvcTaskManager\bin\Debug\netcoreapp2.1\MvcTaskManager.runtimeconfig.dev.json
+F:\Udemy\BackDotNetAPI\MvcTaskManager\bin\Debug\netcoreapp2.1\MvcTaskManager.dll
+F:\Udemy\BackDotNetAPI\MvcTaskManager\bin\Debug\netcoreapp2.1\MvcTaskManager.pdb
+F:\Udemy\BackDotNetAPI\MvcTaskManager\bin\Debug\netcoreapp2.1\MvcTaskManager.Views.dll
+F:\Udemy\BackDotNetAPI\MvcTaskManager\bin\Debug\netcoreapp2.1\MvcTaskManager.Views.pdb
+F:\Udemy\BackDotNetAPI\MvcTaskManager\obj\Debug\netcoreapp2.1\MvcTaskManager.csprojAssemblyReference.cache
+F:\Udemy\BackDotNetAPI\MvcTaskManager\obj\Debug\netcoreapp2.1\MvcTaskManager.csproj.CoreCompileInputs.cache
+F:\Udemy\BackDotNetAPI\MvcTaskManager\obj\Debug\netcoreapp2.1\MvcTaskManager.RazorAssemblyInfo.cache
+F:\Udemy\BackDotNetAPI\MvcTaskManager\obj\Debug\netcoreapp2.1\MvcTaskManager.RazorAssemblyInfo.cs
+F:\Udemy\BackDotNetAPI\MvcTaskManager\obj\Debug\netcoreapp2.1\MvcTaskManager.AssemblyInfoInputs.cache
+F:\Udemy\BackDotNetAPI\MvcTaskManager\obj\Debug\netcoreapp2.1\MvcTaskManager.AssemblyInfo.cs
+F:\Udemy\BackDotNetAPI\MvcTaskManager\obj\Debug\netcoreapp2.1\MvcTaskManager.TagHelpers.input.cache
+F:\Udemy\BackDotNetAPI\MvcTaskManager\obj\Debug\netcoreapp2.1\MvcTaskManager.TagHelpers.output.cache
+F:\Udemy\BackDotNetAPI\MvcTaskManager\obj\Debug\netcoreapp2.1\MvcTaskManager.RazorCoreGenerate.cache
+F:\Udemy\BackDotNetAPI\MvcTaskManager\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+F:\Udemy\BackDotNetAPI\MvcTaskManager\obj\Debug\netcoreapp2.1\MvcTaskManager.RazorTargetAssemblyInfo.cache
+F:\Udemy\BackDotNetAPI\MvcTaskManager\obj\Debug\netcoreapp2.1\MvcTaskManager.RazorTargetAssemblyInfo.cs
+F:\Udemy\BackDotNetAPI\MvcTaskManager\obj\Debug\netcoreapp2.1\MvcTaskManager.Views.pdb
+F:\Udemy\BackDotNetAPI\MvcTaskManager\obj\Debug\netcoreapp2.1\MvcTaskManager.dll
+F:\Udemy\BackDotNetAPI\MvcTaskManager\obj\Debug\netcoreapp2.1\MvcTaskManager.pdb
+F:\Udemy\BackDotNetAPI\MvcTaskManager\obj\Debug\netcoreapp2.1\MvcTaskManager.csproj.CopyComplete
